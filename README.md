@@ -41,9 +41,4 @@
 - .NET 8 SDK (https://dotnet.microsoft.com/download)
 - Visual Studio 2022 / JetBrains Rider
 
-### Инструкция
-
-1. **Склонируй репозиторий:**
-   ```bash
-   git clone https://github.com/ТВОЙ_НИК/WeatherApp.git
-   cd WeatherApp
+<img width="1115" height="739" alt="image" src="https://github.com/user-attachments/assets/1f0d2fde-44f5-4e60-8558-16a1f6c14b5a" />
