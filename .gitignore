@@ -1,0 +1,22 @@
+﻿# Папки сборки
+bin/
+obj/
+
+# Настройки Rider/Visual Studio
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Файлы ReSharper
+_ReSharper*/
+*.resharper
+
+# Локальные настройки приложения
+AppData/
+
+# Файлы с ключами
+*.key
+*.secret
+
